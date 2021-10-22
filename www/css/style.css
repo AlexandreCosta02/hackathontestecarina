@@ -16,13 +16,32 @@ button{
 .conheca{
   display: center;
   text-align: center;
-  border-width: medium;
-  border-style: solid;
-  border-color: #00f;
-  border-radius: 10px;
-  background-color:#00f;
-
 }
 
+#btnConheca{
+  width: 100%;
+}
 
+#texto{
+  text-align: Left;
+  color: darkblue;
+  word-wrap: break-word;
+}
 
+#clique{
+  text-align: Left;
+  font-size: 11px;
+  color: darkblue;
+  word-wrap: break-word;
+}
+
+#imgum{
+  border-radius: 5px;
+}
+
+#tituloImgum{
+  text-align: center;
+  color: darkblue;
+  font-weight: 500;
+ 
+}
