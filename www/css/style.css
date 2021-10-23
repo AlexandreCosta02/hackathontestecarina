@@ -45,3 +45,10 @@ button{
   font-weight: 500;
  
 }
+#map{
+  background-color: oldlace;;
+  border: solid;
+  width: 80vw;
+  height: 50vh;
+  margin-bottom: 8vh;
+}
